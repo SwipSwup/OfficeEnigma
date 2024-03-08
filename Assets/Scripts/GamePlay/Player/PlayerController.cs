@@ -22,6 +22,14 @@ namespace GamePlay.Player
         {
             _playerInput.actions.FindAction("Move").performed += OnMovePerformed;
             _playerInput.actions.FindAction("Move").canceled += OnMoveCanceled;
+            _playerInput.actions.FindAction("Look").performed += OnLookPerformed;
+
+
+        }
+
+        private void OnLookPerformed(InputAction.CallbackContext context)
+        {
+            _playerCharacter.Look(context.ReadValue<Vector2>());
         }
 
         private void OnMoveCanceled(InputAction.CallbackContext context)
