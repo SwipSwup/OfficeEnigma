@@ -1,12 +1,9 @@
-using System;
 using UnityEngine;
-using UnityEngine.Serialization;
 using Random = UnityEngine.Random;
 
 namespace GamePlay.Player
 {
     [RequireComponent(typeof(PlayerController), typeof(CharacterController), typeof(AudioSource))]
-    [ExecuteAlways]
     public class PlayerCharacter : MonoBehaviour
     {
         [Header("Player")]
