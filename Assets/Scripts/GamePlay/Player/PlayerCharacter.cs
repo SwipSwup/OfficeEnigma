@@ -30,7 +30,7 @@ namespace GamePlay.Player
 
             _characterController = GetComponent<CharacterController>();
 
-            _characterController.center = playerBody.position;
+            //_characterController.center = playerBody.position;
         }
 
         private void Update()
@@ -51,6 +51,14 @@ namespace GamePlay.Player
                 return;
 
             _characterController.Move(gravityMultiplier * Time.deltaTime * Vector3.down);
+        }
+
+        public void TeleportPlayer(Vector3 position, float rotationAngle)
+        {
+            _characterController.enabled = false;
+            transform.position = position;
+            transform.Rotate(Vector3.up, rotationAngle);
+            _characterController.enabled = true;
         }
 
         public Vector3 NextMoveDirection

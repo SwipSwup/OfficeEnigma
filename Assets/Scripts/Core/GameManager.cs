@@ -1,6 +1,7 @@
 using System;
 using GamePlay.Anomalies;
 using GamePlay.FloorManager;
+using GamePlay.Player;
 using UnityEngine;
 
 namespace Core
@@ -9,11 +10,17 @@ namespace Core
     {
         public static AnomalyManager AnomalyManager;
         public static FloorManager FloorManager;
+        public static PlayerCharacter PlayerCharacter;
         
         private void Start()
         {
+            // TODO mybe change location
+            Cursor.visible = false;
+            
+            //TODO not very optimal
             AnomalyManager = FindObjectOfType<AnomalyManager>();
             FloorManager = FindObjectOfType<FloorManager>();
+            PlayerCharacter = FindObjectOfType<PlayerCharacter>();
             
             Verify();
         }
