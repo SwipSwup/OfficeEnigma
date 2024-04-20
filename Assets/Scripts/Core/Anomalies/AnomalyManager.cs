@@ -1,15 +1,15 @@
-using System;
+using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-namespace GamePlay.Anomalies
+namespace Core.Anomalies
 {
     //TODO write custom inspector
     public class AnomalyManager : MonoBehaviour
     {
         [Range(0f, 100f)] [SerializeField] private float probabilityForBaseFloor;
 
-        [SerializeField] private FloorAnomalyWrapper[] floors;
+        [SerializeField] private List<FloorAnomalyWrapper> floors;
 
         [Header("Anomalies")] [SerializeField] private GameObject[] gimmickFloors;
         [SerializeField] private GameObject[] easyFloors;
@@ -20,7 +20,7 @@ namespace GamePlay.Anomalies
         public int HighestDefinedFloor { get; private set; }
         private void Start()
         {
-            HighestDefinedFloor = floors.Length;
+            HighestDefinedFloor = floors.Count;
         }
 
         public bool TryGetAnomaly(int floorLevel, out GameObject anomaly)
@@ -33,7 +33,7 @@ namespace GamePlay.Anomalies
                 return false;
             }
 
-            floorLevel = floorLevel > floors.Length ? floors.Length : floorLevel; 
+            floorLevel = floorLevel > floors.Count ? floors.Count : floorLevel; 
             randomValue = Random.Range(0f, 100f);
 
             foreach (AnomalyWrapper anomalyWrapper in floors[floorLevel - 1].anomalies)
