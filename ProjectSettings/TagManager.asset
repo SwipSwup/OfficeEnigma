@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Anomaly
+  - Base
   layers:
   - Default
   - TransparentFX
