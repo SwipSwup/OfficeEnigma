@@ -989,7 +989,7 @@ MonoBehaviour:
     type: 3}
   endFloorProps: {fileID: 7211374412467814222, guid: df81772618242e54f823887d5597ef32,
     type: 3}
-  startFloorLevel: 2
+  startFloorLevel: 10
 --- !u!4 &1245214898
 Transform:
   m_ObjectHideFlags: 0
