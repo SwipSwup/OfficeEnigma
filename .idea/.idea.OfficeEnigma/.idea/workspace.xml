@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e86d2dd3-1f6c-48c8-a482-dd12cb9da289" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OfficeEnigma/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OfficeEnigma/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/External/3Dfrk/Frames with pictures/Materials/Paint_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/3Dfrk/Frames with pictures/Materials/Paint_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/External/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Ebony Wood.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Ebony Wood.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/External/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Mirror.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Mirror.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/External/Brick Project Studio/_BPS Basic Assets/Common/Materials/Restroom/RR_Panel_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/Brick Project Studio/_BPS Basic Assets/Common/Materials/Restroom/RR_Panel_01.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/External/PolygonPrototype/URP_ExtractMe.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/GameManager/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/GameManager/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/External/RDL/Security_Pack/Example_Scene/Materials/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/RDL/Security_Pack/Example_Scene/Materials/Floor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/External/RDL/Security_Pack/Example_Scene/Materials/Table.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/RDL/Security_Pack/Example_Scene/Materials/Table.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/External/RDL/Security_Pack/Example_Scene/Materials/TexturesCom_BrickLargeBlocks0023_1_seamless_S.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/RDL/Security_Pack/Example_Scene/Materials/TexturesCom_BrickLargeBlocks0023_1_seamless_S.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Props.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Props.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Development/Lukas.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Development/Lukas.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,30 +47,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev/david&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\david\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\david\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.35f1\Editor\Unity.exe" />
@@ -135,6 +143,7 @@
       <workItem from="1713535159185" duration="883000" />
       <workItem from="1713600121067" duration="7389000" />
       <workItem from="1713876161168" duration="940000" />
+      <workItem from="1716903822225" duration="4000" />
     </task>
     <servers />
   </component>

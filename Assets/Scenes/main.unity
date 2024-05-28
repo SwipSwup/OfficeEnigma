@@ -1584,13 +1584,13 @@ MonoBehaviour:
   gimmickFloors:
   - {fileID: 7211374412467814222, guid: 34484153726d9e84b9c6ba0d94d369cb, type: 3}
   easyFloors:
-  - {fileID: 7211374412467814222, guid: 8cf93eac4beb3834dabe2c9b548b2660, type: 3}
+  - {fileID: 8409321753680343591, guid: 41d7d76c76ef0704bba8169470052d9f, type: 3}
   normalFloors:
-  - {fileID: 7211374412467814222, guid: 6475f1a86b8cf6c4cbac2057ef276e10, type: 3}
+  - {fileID: 1819784493334784997, guid: f711dc2e5feba58419f00440d5a00701, type: 3}
   hardFloors:
-  - {fileID: 5394323496944567297, guid: 59fa31ad7b738db449b6729e5d3190ca, type: 3}
+  - {fileID: 8372153425145373063, guid: db40d6a7053db9e478c970dca2261372, type: 3}
   impossibleFloors:
-  - {fileID: 7211374412467814222, guid: eabad74006c3c2f45a1b82ff80bcc54b, type: 3}
+  - {fileID: 593291593160356117, guid: cf534dd5fb451614e857d776b2d11d4f, type: 3}
 --- !u!4 &1536115842
 Transform:
   m_ObjectHideFlags: 0
