@@ -4,25 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e86d2dd3-1f6c-48c8-a482-dd12cb9da289" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OfficeEnigma/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OfficeEnigma/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/External/PolygonPrototype/URP_ExtractMe.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/GameManager/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/GameManager/GameManager.cs" afterDir="false" />
-    </list>
+    <list default="true" id="e86d2dd3-1f6c-48c8-a482-dd12cb9da289" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev/lukas" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1650f973f32045d6bc81eca6beea8ea9827800/74/c6facaed/SerializedProperty.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2a3b1fc140ae44e9a4476e34a2a2972615b000/2b/b59d8a94/Matrix4x4.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2a3b1fc140ae44e9a4476e34a2a2972615b000/3f/7b29b341/Transform.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2a3b1fc140ae44e9a4476e34a2a2972615b000/4c/b61779dd/Object.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2a3b1fc140ae44e9a4476e34a2a2972615b000/de/3a8916d0/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/AK STUDIO ART/Radio/Scenes/Example.unity.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/AK STUDIO ART/Radio/Scenes/Example.unity.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/External/Office Supplies Low Poly.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/External/Office Supplies Low Poly.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/External/Office Supplies Low Poly.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Prefabs/Floors/Base/Props.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Prefabs/Floors/Hard/AnomalyHard47.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Prefabs/Floors/Hard/AnomalyHard47.prefab.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Prefabs/Floors/Prototype/BaseFloorProps.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Prefabs/Floors/Prototype/BaseFloorProps.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Scenes/Development/Lukas.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Scenes/main.unity" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,6 +43,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2cuPGAtEq5Sa0BPabEBt7sBhiK0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -136,6 +147,15 @@
       <workItem from="1713600121067" duration="7389000" />
       <workItem from="1713876161168" duration="940000" />
     </task>
+    <task id="LOCAL-00001" summary="Add workspace.xml">
+      <option name="closed" value="true" />
+      <created>1717422475965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717422475965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +166,8 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add workspace.xml" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
