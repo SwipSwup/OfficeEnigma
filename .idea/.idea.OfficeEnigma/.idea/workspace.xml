@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e86d2dd3-1f6c-48c8-a482-dd12cb9da289" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/External/3Dfrk/Frames with pictures/Materials/Paint_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/3Dfrk/Frames with pictures/Materials/Paint_01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/External/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Ebony Wood.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Ebony Wood.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/External/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Mirror.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/Brick Project Studio/Apartment Kit/Common/Materials/Surface/Mirror.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/External/Brick Project Studio/_BPS Basic Assets/Common/Materials/Restroom/RR_Panel_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/Brick Project Studio/_BPS Basic Assets/Common/Materials/Restroom/RR_Panel_01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/External/PolygonPrototype/URP_ExtractMe.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/External/RDL/Security_Pack/Example_Scene/Materials/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/RDL/Security_Pack/Example_Scene/Materials/Floor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/External/RDL/Security_Pack/Example_Scene/Materials/Table.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/RDL/Security_Pack/Example_Scene/Materials/Table.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/External/RDL/Security_Pack/Example_Scene/Materials/TexturesCom_BrickLargeBlocks0023_1_seamless_S.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/RDL/Security_Pack/Example_Scene/Materials/TexturesCom_BrickLargeBlocks0023_1_seamless_S.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AK STUDIO ART/Radio/Scenes/Example.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AK STUDIO ART/Radio/Scenes/Example.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/External/Brick Project Studio/_BPS Basic Assets/_Prefabs/Legacy/office chair.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/External/Brick Project Studio/_BPS Basic Assets/_Prefabs/Legacy/office chair.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/External/Office Supplies Low Poly.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/Office Supplies Low Poly.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Props.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Props.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Development/Lukas.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Development/Lukas.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Furniture/DeskChair.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Furniture/DeskChair.prefab" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +63,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "dev/lukas",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -159,6 +154,7 @@
       <workItem from="1713600121067" duration="7389000" />
       <workItem from="1713876161168" duration="940000" />
       <workItem from="1716903822225" duration="4000" />
+      <workItem from="1718203238361" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="Add workspace.xml">
       <option name="closed" value="true" />
