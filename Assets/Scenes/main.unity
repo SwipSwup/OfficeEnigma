@@ -981,11 +981,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5874455a08e94734bc9a055c979f2669, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  baseFloorPrimitives: {fileID: 5158976339020214895, guid: 061e8176971016746adf140faf854b56,
+  baseFloorPrimitives: {fileID: 3145950803466357641, guid: 5253854e9643fdc46a4041c9c63bc0a8,
     type: 3}
   endFloorPrimitives: {fileID: 2364329893852188705, guid: bff28b3954857dd4ba0f178cba991f81,
     type: 3}
-  baseFloorProps: {fileID: 2069647335879611210, guid: ca150e4cf89d972459dcfb4ceaff4de5,
+  baseFloorProps: {fileID: 4502490672155861659, guid: ca150e4cf89d972459dcfb4ceaff4de5,
     type: 3}
   endFloorProps: {fileID: 7211374412467814222, guid: df81772618242e54f823887d5597ef32,
     type: 3}
