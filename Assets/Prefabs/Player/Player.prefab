@@ -219,13 +219,13 @@ MonoBehaviour:
   lookSpeedMultiplier: 3
   pitchWobble: 0.05
   footStepSounds:
-  - {fileID: 8300000, guid: 44945067ff9dd034fa92b69571545f41, type: 3}
-  - {fileID: 8300000, guid: e750fafbc0d3ae6428fee0d5d33bfb3c, type: 3}
-  - {fileID: 8300000, guid: 8abade06364e7954fa8953a7c3572c6f, type: 3}
-  - {fileID: 8300000, guid: 205ec06b6f3588048a13085558bb16c1, type: 3}
-  - {fileID: 8300000, guid: 4512a6d6b90f22441a88069250e42d20, type: 3}
-  - {fileID: 8300000, guid: c212b860ba72a784eb4a91b8535d662e, type: 3}
-  - {fileID: 8300000, guid: 089746445eff0a344ac2dd846de40cd8, type: 3}
+  - {fileID: 8300000, guid: 10e016b0975ff454a9c68d2431d9ad23, type: 3}
+  - {fileID: 8300000, guid: 3c97ca96d7f174e4a870b111a0e70a3e, type: 3}
+  - {fileID: 8300000, guid: 5d01f58cfffd91c4f9595b0557c0cd58, type: 3}
+  - {fileID: 8300000, guid: 80ffc40dc16004e40a51edbc19cc9585, type: 3}
+  - {fileID: 8300000, guid: 7d30875f42b5e8e4d89836aca9b9fac5, type: 3}
+  - {fileID: 8300000, guid: 21105129333253b408d4d4df515c643e, type: 3}
+  - {fileID: 8300000, guid: 8374166cbc86a324a99a24b26a7e937f, type: 3}
 --- !u!114 &8179171327629403662
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -268,7 +268,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 0.271
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0

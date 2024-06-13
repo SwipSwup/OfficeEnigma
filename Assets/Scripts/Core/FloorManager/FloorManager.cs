@@ -35,6 +35,7 @@ namespace Core.FloorManager
             
             if (_loadedFloorProps.CompareTag(resetTag))
             {
+                Debug.Log(_loadedFloorProps.name);
                 SpawnBaseFloor();
                 return;
             }          
