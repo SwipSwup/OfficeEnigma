@@ -22977,7 +22977,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7359452313738175349}
   m_Layer: 0
-  m_Name: AnomalyImpossible21
+  m_Name: AnomalyImpossible21Scrapepd
   m_TagString: Anomaly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
