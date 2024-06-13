@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e86d2dd3-1f6c-48c8-a482-dd12cb9da289" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/AK STUDIO ART/Radio/Scenes/Example.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AK STUDIO ART/Radio/Scenes/Example.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/External/Brick Project Studio/_BPS Basic Assets/_Prefabs/Legacy/office chair.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/External/Brick Project Studio/_BPS Basic Assets/_Prefabs/Legacy/office chair.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/External/Office Supplies Low Poly.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/External/Office Supplies Low Poly.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OfficeEnigma/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OfficeEnigma/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Primitives 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Primitives 1.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Props.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Props.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Furniture/DeskChair.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Furniture/DeskChair.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Gimmick/AnomalyGimmick17.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Gimmick/AnomalyGimmick17.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/FloorManager/FloorManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/FloorManager/FloorManager.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "dev/lukas",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -75,8 +75,8 @@
   },
   "keyToStringList": {
     "rider.external.source.directories": [
-      "C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
-      "C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
       "C:\\Users\\david\\AppData\\Local\\Symbols\\src"
     ]
   }
@@ -155,6 +155,7 @@
       <workItem from="1713876161168" duration="940000" />
       <workItem from="1716903822225" duration="4000" />
       <workItem from="1718203238361" duration="3000" />
+      <workItem from="1718274049294" duration="873000" />
     </task>
     <task id="LOCAL-00001" summary="Add workspace.xml">
       <option name="closed" value="true" />
@@ -172,6 +173,11 @@
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

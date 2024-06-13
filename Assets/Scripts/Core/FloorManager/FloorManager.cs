@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 
 namespace Core.FloorManager
@@ -8,6 +9,7 @@ namespace Core.FloorManager
         [SerializeField] private GameObject endFloorPrimitives;
         [SerializeField] private GameObject baseFloorProps;
         [SerializeField] private GameObject endFloorProps;
+        [SerializeField] private TMP_Text floorNumberText;
 
         [SerializeField] private int startFloorLevel = 10;
 
@@ -23,6 +25,7 @@ namespace Core.FloorManager
             SpawnFloorPrimitives(baseFloorPrimitives);
             SpawnFloorProps(baseFloorProps);
             _currentFloorLevel = startFloorLevel;
+            floorNumberText.SetText((_currentFloorLevel + 1).ToString());
         }
 
         public void SpawnNextFloor(string resetTag)
@@ -39,10 +42,6 @@ namespace Core.FloorManager
                 Debug.Log("Reset");
             }          
             
-            Debug.Log("Floor: " + _currentFloorLevel);
-
-            
-            
             SpawnFloorAtLevel(_currentFloorLevel--);
         }
 
@@ -54,6 +53,9 @@ namespace Core.FloorManager
 
         public void SpawnFloorAtLevel(int floorLevel)
         {
+            Debug.Log("Spawn floor: " + floorLevel);
+            floorNumberText.SetText(floorLevel.ToString());
+            
             SpawnFloorProps(GameManager.GameManager.AnomalyManager.TryGetAnomaly(floorLevel, out GameObject anomaly)
                 ? anomaly
                 : baseFloorProps);
