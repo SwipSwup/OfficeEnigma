@@ -3266,6 +3266,7 @@ MonoBehaviour:
   - {fileID: 4589683154705732802, guid: e8b0ad7769728224a9fb3fd68e5c3313, type: 3}
   - {fileID: 2456147757914704630, guid: 29126f2edd082cd40abdd5425834716d, type: 3}
   - {fileID: 4211371472751876783, guid: d2a8bdda79bbe38498c73b257053066a, type: 3}
+  - {fileID: 675816730283366638, guid: b9fbd8f7a49fd344ab74253ae73c76e3, type: 3}
   normalFloors:
   - {fileID: 2220810505271226345, guid: e9d14f70ed388ee47ad09facea496de5, type: 3}
   - {fileID: 5645879901763988614, guid: a6b85345f7133684a9c5a8e27830f9eb, type: 3}

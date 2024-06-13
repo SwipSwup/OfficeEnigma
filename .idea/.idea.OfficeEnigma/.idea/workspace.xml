@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e86d2dd3-1f6c-48c8-a482-dd12cb9da289" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OfficeEnigma/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OfficeEnigma/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy10.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy10.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy25.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy25.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy27.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy27.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy28.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy28.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy40.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy40.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy5.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy50.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy50.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy60.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Easy/AnomalyEasy60.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/FloorManager/FloorManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/FloorManager/FloorManager.cs" afterDir="false" />
     </list>
@@ -141,7 +150,7 @@
       <workItem from="1716903822225" duration="4000" />
       <workItem from="1718203238361" duration="3000" />
       <workItem from="1718274049294" duration="3428000" />
-      <workItem from="1718284769215" duration="848000" />
+      <workItem from="1718284769215" duration="2331000" />
     </task>
     <task id="LOCAL-00001" summary="Add workspace.xml">
       <option name="closed" value="true" />

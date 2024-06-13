@@ -28,7 +28,7 @@ namespace Core.FloorManager
 
         public void SpawnNextFloor(string resetTag)
         {
-            if (CurrenFloorLevel < 0)
+            if (CurrenFloorLevel - 1 <= 0)
             {
                 SpawnEndFloor();
                 return;
