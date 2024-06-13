@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 
 namespace Core.FloorManager
@@ -8,6 +9,7 @@ namespace Core.FloorManager
         [SerializeField] private GameObject endFloorPrimitives;
         [SerializeField] private GameObject baseFloorProps;
         [SerializeField] private GameObject endFloorProps;
+        [SerializeField] private TMP_Text floorNumberText;
 
         [SerializeField] private int startFloorLevel = 10;
 
@@ -20,9 +22,7 @@ namespace Core.FloorManager
 
         private void Start()
         {
-            SpawnFloorPrimitives(baseFloorPrimitives);
-            SpawnFloorProps(baseFloorProps);
-            _currentFloorLevel = startFloorLevel;
+            SpawnBaseFloor();
         }
 
         public void SpawnNextFloor(string resetTag)
@@ -31,19 +31,16 @@ namespace Core.FloorManager
             {
                 SpawnEndFloor();
                 return;
-            } 
+            }
             
             if (_loadedFloorProps.CompareTag(resetTag))
             {
-                _currentFloorLevel = startFloorLevel;
-                Debug.Log("Reset");
+                Debug.Log(_loadedFloorProps.name);
+                SpawnBaseFloor();
+                return;
             }          
             
-            Debug.Log("Floor: " + _currentFloorLevel);
-
-            
-            
-            SpawnFloorAtLevel(_currentFloorLevel--);
+            SpawnFloorAtLevel(--_currentFloorLevel);
         }
 
         private void SpawnEndFloor()
@@ -51,9 +48,21 @@ namespace Core.FloorManager
             SpawnFloorPrimitives(endFloorPrimitives);
             SpawnFloorProps(endFloorProps);
         }
+        
+        private void SpawnBaseFloor()
+        {
+            _currentFloorLevel = startFloorLevel;
+            floorNumberText.SetText(_currentFloorLevel.ToString());
+            
+            SpawnFloorPrimitives(baseFloorPrimitives);
+            SpawnFloorProps(baseFloorProps);
+        }
 
         public void SpawnFloorAtLevel(int floorLevel)
         {
+            Debug.Log("Spawn floor: " + floorLevel);
+            floorNumberText.SetText(floorLevel.ToString());
+            
             SpawnFloorProps(GameManager.GameManager.AnomalyManager.TryGetAnomaly(floorLevel, out GameObject anomaly)
                 ? anomaly
                 : baseFloorProps);

@@ -1,6 +1,12 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Models/Cola Can/Demo Scene/demo.unity.meta
+guid: 82f9158bf18854042b6ed1a35287884a
+timeCreated: 1498707456
+licenseType: Store
+========
 guid: 3cec78f71ffeb634a856e4e26a0f7a8d
 folderAsset: yes
+>>>>>>>> origin/dev/david:Assets/External/Everything Bundle.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

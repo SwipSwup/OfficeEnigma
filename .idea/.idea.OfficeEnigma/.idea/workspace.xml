@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e86d2dd3-1f6c-48c8-a482-dd12cb9da289" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OfficeEnigma/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OfficeEnigma/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/External/PolygonPrototype/URP_ExtractMe.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/GameManager/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/GameManager/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/OnDesk/PC Stuff/DisplayScreen.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/OnDesk/PC Stuff/DisplayScreen.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Gimmick/AnomalyGimmick17.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Gimmick/AnomalyGimmick17.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/FloorManager/FloorManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/FloorManager/FloorManager.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,14 +18,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev/lukas" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1650f973f32045d6bc81eca6beea8ea9827800/74/c6facaed/SerializedProperty.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2a3b1fc140ae44e9a4476e34a2a2972615b000/2b/b59d8a94/Matrix4x4.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2a3b1fc140ae44e9a4476e34a2a2972615b000/3f/7b29b341/Transform.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2a3b1fc140ae44e9a4476e34a2a2972615b000/4c/b61779dd/Object.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2a3b1fc140ae44e9a4476e34a2a2972615b000/de/3a8916d0/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@12.1.14/Runtime/Data/UniversalRenderPipelineAsset.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,6 +39,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2cuPGAtEq5Sa0BPabEBt7sBhiK0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +52,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev/david&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -57,8 +64,8 @@
   },
   &quot;keyToStringList&quot;: {
     &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
       &quot;C:\\Users\\david\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
@@ -135,7 +142,19 @@
       <workItem from="1713535159185" duration="883000" />
       <workItem from="1713600121067" duration="7389000" />
       <workItem from="1713876161168" duration="940000" />
+      <workItem from="1716903822225" duration="4000" />
+      <workItem from="1718203238361" duration="3000" />
+      <workItem from="1718274049294" duration="3428000" />
     </task>
+    <task id="LOCAL-00001" summary="Add workspace.xml">
+      <option name="closed" value="true" />
+      <created>1717422475965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717422475965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,9 +162,16 @@
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add workspace.xml" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
