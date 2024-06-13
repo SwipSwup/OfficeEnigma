@@ -22,10 +22,7 @@ namespace Core.FloorManager
 
         private void Start()
         {
-            SpawnFloorPrimitives(baseFloorPrimitives);
-            SpawnFloorProps(baseFloorProps);
-            _currentFloorLevel = startFloorLevel;
-            floorNumberText.SetText((_currentFloorLevel + 1).ToString());
+            SpawnBaseFloor();
         }
 
         public void SpawnNextFloor(string resetTag)
@@ -34,21 +31,30 @@ namespace Core.FloorManager
             {
                 SpawnEndFloor();
                 return;
-            } 
+            }
             
             if (_loadedFloorProps.CompareTag(resetTag))
             {
-                _currentFloorLevel = startFloorLevel;
-                Debug.Log("Reset");
+                SpawnBaseFloor();
+                return;
             }          
             
-            SpawnFloorAtLevel(_currentFloorLevel--);
+            SpawnFloorAtLevel(--_currentFloorLevel);
         }
 
         private void SpawnEndFloor()
         {
             SpawnFloorPrimitives(endFloorPrimitives);
             SpawnFloorProps(endFloorProps);
+        }
+        
+        private void SpawnBaseFloor()
+        {
+            _currentFloorLevel = startFloorLevel;
+            floorNumberText.SetText(_currentFloorLevel.ToString());
+            
+            SpawnFloorPrimitives(baseFloorPrimitives);
+            SpawnFloorProps(baseFloorProps);
         }
 
         public void SpawnFloorAtLevel(int floorLevel)

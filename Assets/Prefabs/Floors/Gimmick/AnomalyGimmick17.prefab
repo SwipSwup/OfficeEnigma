@@ -5215,7 +5215,7 @@ GameObject:
   - component: {fileID: 6197179584612701321}
   m_Layer: 0
   m_Name: AnomalyGimmick17
-  m_TagString: Untagged
+  m_TagString: Anomaly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647

@@ -36340,8 +36340,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4502490672155861656}
   m_Layer: 0
-  m_Name: Props
-  m_TagString: Untagged
+  m_Name: BaseProps
+  m_TagString: Base
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647

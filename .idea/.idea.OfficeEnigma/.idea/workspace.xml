@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e86d2dd3-1f6c-48c8-a482-dd12cb9da289" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OfficeEnigma/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OfficeEnigma/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Primitives 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Primitives 1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Props.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Props.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Primitives 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Primitives 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Props.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Base/Props.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/End Floor/EndFloorPrimitive.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/End Floor/EndFloorPrimitive.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Floors/Gimmick/AnomalyGimmick17.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Floors/Gimmick/AnomalyGimmick17.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/FloorManager/FloorManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/FloorManager/FloorManager.cs" afterDir="false" />
@@ -26,18 +29,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/AK STUDIO ART/Radio/Scenes/Example.unity.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/AK STUDIO ART/Radio/Scenes/Example.unity.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/External/Office Supplies Low Poly.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/External/Office Supplies Low Poly.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/External/Office Supplies Low Poly.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Prefabs/Floors/Base/Props.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Prefabs/Floors/Hard/AnomalyHard47.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Prefabs/Floors/Hard/AnomalyHard47.prefab.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Prefabs/Floors/Prototype/BaseFloorProps.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Prefabs/Floors/Prototype/BaseFloorProps.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Scenes/Development/Lukas.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Documents/FH/2/ITP_Projekt/OfficeEnigma/Assets/Scenes/main.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@12.1.14/Runtime/Data/UniversalRenderPipelineAsset.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,30 +49,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\david\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\david\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.35f1\Editor\Unity.exe" />
@@ -155,7 +147,7 @@
       <workItem from="1713876161168" duration="940000" />
       <workItem from="1716903822225" duration="4000" />
       <workItem from="1718203238361" duration="3000" />
-      <workItem from="1718274049294" duration="873000" />
+      <workItem from="1718274049294" duration="2188000" />
     </task>
     <task id="LOCAL-00001" summary="Add workspace.xml">
       <option name="closed" value="true" />

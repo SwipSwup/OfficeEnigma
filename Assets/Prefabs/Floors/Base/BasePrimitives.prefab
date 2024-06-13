@@ -33114,8 +33114,8 @@ GameObject:
   m_Component:
   - component: {fileID: 3145950803466357646}
   m_Layer: 0
-  m_Name: Primitives 1
-  m_TagString: Untagged
+  m_Name: BasePrimitives
+  m_TagString: Base
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
