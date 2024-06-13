@@ -16,6 +16,7 @@ namespace Core.FloorManager
         private int _currentFloorLevel;
 
         private GameObject _loadedFloorProps;
+        private string _previousFloorName;
         private GameObject _loadedFloorPrimitives;
         public int StartFloorLevel => startFloorLevel;
         public int CurrenFloorLevel => _currentFloorLevel;
@@ -38,7 +39,7 @@ namespace Core.FloorManager
                 Debug.Log(_loadedFloorProps.name);
                 SpawnBaseFloor();
                 return;
-            }          
+            }   
             
             SpawnFloorAtLevel(--_currentFloorLevel);
         }
@@ -70,6 +71,13 @@ namespace Core.FloorManager
 
         private void SpawnFloorProps(GameObject floorProps)
         {
+            if (!floorProps.CompareTag("Base") && floorProps.name == _previousFloorName)
+            {
+                SpawnFloorAtLevel(_currentFloorLevel);
+                return;
+            }
+
+            _previousFloorName = floorProps.name;
             if(_loadedFloorProps != null)
                 Destroy(_loadedFloorProps);
             

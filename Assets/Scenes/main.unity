@@ -3140,7 +3140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23f8089d0a87473fb8f5950c8ad48171, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  probabilityForBaseFloor: 50
+  probabilityForBaseFloor: 40
   floors:
   - anomalies:
     - type: 0
@@ -3254,12 +3254,13 @@ MonoBehaviour:
       probability: 0
   gimmickFloors:
   - {fileID: 3922522229276525991, guid: 476f63fdfe6af5747812ffc491a048f4, type: 3}
-  - {fileID: 6394029796448659186, guid: 7dab6d6830d5e2044b478c5be4adfe3b, type: 3}
   - {fileID: 647867270141890372, guid: 1f219e83cd230ad4d83f40049f6543ab, type: 3}
+  - {fileID: 6394029796448659186, guid: 7dab6d6830d5e2044b478c5be4adfe3b, type: 3}
   - {fileID: 6197179584612701322, guid: eaac7632ccb6f724b8262d33fae97d20, type: 3}
   easyFloors:
   - {fileID: 3856069851852722414, guid: a07771099f0175b43b1fa20a431e8ce9, type: 3}
   - {fileID: 4589683154705732802, guid: e8b0ad7769728224a9fb3fd68e5c3313, type: 3}
+  - {fileID: 2456147757914704630, guid: 29126f2edd082cd40abdd5425834716d, type: 3}
   normalFloors:
   - {fileID: 2220810505271226345, guid: e9d14f70ed388ee47ad09facea496de5, type: 3}
   hardFloors:
