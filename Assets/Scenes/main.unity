@@ -2558,7 +2558,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   baseFloorPrimitives: {fileID: 3145950803466357641, guid: 5253854e9643fdc46a4041c9c63bc0a8,
     type: 3}
-  endFloorPrimitives: {fileID: 2364329893852188705, guid: bff28b3954857dd4ba0f178cba991f81,
+  endFloorPrimitives: {fileID: 3251604222887711142, guid: 32d3a7a8e50a9a049a878780a5c4f0ec,
     type: 3}
   baseFloorProps: {fileID: 4502490672155861659, guid: ca150e4cf89d972459dcfb4ceaff4de5,
     type: 3}
