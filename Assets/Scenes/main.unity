@@ -2944,55 +2944,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 15271171, guid: c6aa8cbe05a85c84fbca05a4f4f62a2d, type: 3}
-      propertyPath: m_Volume
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8179171327629403657, guid: c6aa8cbe05a85c84fbca05a4f4f62a2d,
         type: 3}
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    - target: {fileID: 8179171327629403661, guid: c6aa8cbe05a85c84fbca05a4f4f62a2d,
-        type: 3}
-      propertyPath: footStepSounds.Array.size
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 8179171327629403661, guid: c6aa8cbe05a85c84fbca05a4f4f62a2d,
-        type: 3}
-      propertyPath: footStepSounds.Array.data[0]
-      value: 
-      objectReference: {fileID: 8300000, guid: 10e016b0975ff454a9c68d2431d9ad23, type: 3}
-    - target: {fileID: 8179171327629403661, guid: c6aa8cbe05a85c84fbca05a4f4f62a2d,
-        type: 3}
-      propertyPath: footStepSounds.Array.data[1]
-      value: 
-      objectReference: {fileID: 8300000, guid: 3c97ca96d7f174e4a870b111a0e70a3e, type: 3}
-    - target: {fileID: 8179171327629403661, guid: c6aa8cbe05a85c84fbca05a4f4f62a2d,
-        type: 3}
-      propertyPath: footStepSounds.Array.data[2]
-      value: 
-      objectReference: {fileID: 8300000, guid: 5d01f58cfffd91c4f9595b0557c0cd58, type: 3}
-    - target: {fileID: 8179171327629403661, guid: c6aa8cbe05a85c84fbca05a4f4f62a2d,
-        type: 3}
-      propertyPath: footStepSounds.Array.data[3]
-      value: 
-      objectReference: {fileID: 8300000, guid: 80ffc40dc16004e40a51edbc19cc9585, type: 3}
-    - target: {fileID: 8179171327629403661, guid: c6aa8cbe05a85c84fbca05a4f4f62a2d,
-        type: 3}
-      propertyPath: footStepSounds.Array.data[4]
-      value: 
-      objectReference: {fileID: 8300000, guid: 7d30875f42b5e8e4d89836aca9b9fac5, type: 3}
-    - target: {fileID: 8179171327629403661, guid: c6aa8cbe05a85c84fbca05a4f4f62a2d,
-        type: 3}
-      propertyPath: footStepSounds.Array.data[5]
-      value: 
-      objectReference: {fileID: 8300000, guid: 21105129333253b408d4d4df515c643e, type: 3}
-    - target: {fileID: 8179171327629403661, guid: c6aa8cbe05a85c84fbca05a4f4f62a2d,
-        type: 3}
-      propertyPath: footStepSounds.Array.data[6]
-      value: 
-      objectReference: {fileID: 8300000, guid: 8374166cbc86a324a99a24b26a7e937f, type: 3}
     - target: {fileID: 8179171327629403663, guid: c6aa8cbe05a85c84fbca05a4f4f62a2d,
         type: 3}
       propertyPath: m_RootOrder
@@ -3297,15 +3253,29 @@ MonoBehaviour:
     - type: 4
       probability: 0
   gimmickFloors:
-  - {fileID: 7826578249685013461, guid: eaac7632ccb6f724b8262d33fae97d20, type: 3}
+  - {fileID: 3922522229276525991, guid: 476f63fdfe6af5747812ffc491a048f4, type: 3}
+  - {fileID: 6394029796448659186, guid: 7dab6d6830d5e2044b478c5be4adfe3b, type: 3}
+  - {fileID: 647867270141890372, guid: 1f219e83cd230ad4d83f40049f6543ab, type: 3}
+  - {fileID: 6197179584612701322, guid: eaac7632ccb6f724b8262d33fae97d20, type: 3}
+  - {fileID: 6852116756631502713, guid: 72ca29f9a29733a4d9d6d795644a1a78, type: 3}
   easyFloors:
-  - {fileID: 8409321753680343591, guid: 41d7d76c76ef0704bba8169470052d9f, type: 3}
+  - {fileID: 3856069851852722414, guid: a07771099f0175b43b1fa20a431e8ce9, type: 3}
+  - {fileID: 6231903139554630217, guid: e67385afe6fd77d4f8a2bcc6def2abc5, type: 3}
+  - {fileID: 2950072566202238251, guid: 743df4ee8a8312f48bd42570a02407e5, type: 3}
+  - {fileID: 9077371944096970183, guid: c686bd37290ca5b4784713555f1ed880, type: 3}
+  - {fileID: 4589683154705732802, guid: e8b0ad7769728224a9fb3fd68e5c3313, type: 3}
+  - {fileID: 2456147757914704630, guid: 29126f2edd082cd40abdd5425834716d, type: 3}
+  - {fileID: 4211371472751876783, guid: d2a8bdda79bbe38498c73b257053066a, type: 3}
+  - {fileID: 675816730283366638, guid: b9fbd8f7a49fd344ab74253ae73c76e3, type: 3}
   normalFloors:
-  - {fileID: 1819784493334784997, guid: f711dc2e5feba58419f00440d5a00701, type: 3}
+  - {fileID: 2220810505271226345, guid: e9d14f70ed388ee47ad09facea496de5, type: 3}
+  - {fileID: 5645879901763988614, guid: a6b85345f7133684a9c5a8e27830f9eb, type: 3}
   hardFloors:
-  - {fileID: 8372153425145373063, guid: db40d6a7053db9e478c970dca2261372, type: 3}
+  - {fileID: 4900137092479098401, guid: 115f56c80059d46479b77a1680dd3132, type: 3}
+  - {fileID: 3292728335144101497, guid: 0bb438760db73c7489f08f95f03471f1, type: 3}
+  - {fileID: 445709514281777131, guid: 1651f54c0a1519a46bd1b1bf6e92b927, type: 3}
   impossibleFloors:
-  - {fileID: 593291593160356117, guid: cf534dd5fb451614e857d776b2d11d4f, type: 3}
+  - {fileID: 3892723337209361798, guid: b2f864527602ea147b641f23e296d40e, type: 3}
 --- !u!4 &1536115842
 Transform:
   m_ObjectHideFlags: 0
@@ -5020,7 +4990,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2058866479}
   m_LocalRotation: {x: -0, y: 0.70710576, z: -0, w: 0.70710784}
-  m_LocalPosition: {x: 2.77, y: -0.3699999, z: 0.03999996}
+  m_LocalPosition: {x: 2.77, y: -0.3699999, z: 0.39}
   m_LocalScale: {x: 2.25, y: 6.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
