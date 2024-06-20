@@ -30,6 +30,7 @@ namespace Core.FloorManager
         {
             if (CurrenFloorLevel - 1 <= 0)
             {
+                floorNumberText.enabled = false;
                 SpawnEndFloor();
                 return;
             }
