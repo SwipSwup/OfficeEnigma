@@ -2559,7 +2559,7 @@ MonoBehaviour:
     type: 3}
   endFloorPrimitives: {fileID: 3251604222887711142, guid: 32d3a7a8e50a9a049a878780a5c4f0ec,
     type: 3}
-  baseFloorProps: {fileID: 4502490672155861659, guid: ca150e4cf89d972459dcfb4ceaff4de5,
+  baseFloorProps: {fileID: 6391528146799605483, guid: ca150e4cf89d972459dcfb4ceaff4de5,
     type: 3}
   endFloorProps: {fileID: 7211374412467814222, guid: df81772618242e54f823887d5597ef32,
     type: 3}
@@ -3298,9 +3298,9 @@ MonoBehaviour:
     - type: 1
       probability: 0
     - type: 2
-      probability: 0
+      probability: 20
     - type: 3
-      probability: 90
+      probability: 70
     - type: 4
       probability: 9.5
   - anomalies:
@@ -3409,6 +3409,8 @@ MonoBehaviour:
   normalFloors:
   - {fileID: 2220810505271226345, guid: e9d14f70ed388ee47ad09facea496de5, type: 3}
   - {fileID: 5645879901763988614, guid: a6b85345f7133684a9c5a8e27830f9eb, type: 3}
+  - {fileID: 920656370011966929, guid: bf9c61d1fb4729d45a66ea15552de8bc, type: 3}
+  - {fileID: 2731342967621659354, guid: e98e03134c01c3b46b08c2f27a571bda, type: 3}
   hardFloors:
   - {fileID: 4900137092479098401, guid: 115f56c80059d46479b77a1680dd3132, type: 3}
   - {fileID: 3292728335144101497, guid: 0bb438760db73c7489f08f95f03471f1, type: 3}
