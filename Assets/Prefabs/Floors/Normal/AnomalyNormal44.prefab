@@ -27375,7 +27375,7 @@ GameObject:
   - component: {fileID: 2731342967621659353}
   m_Layer: 0
   m_Name: AnomalyNormal44
-  m_TagString: Base
+  m_TagString: Anomaly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
